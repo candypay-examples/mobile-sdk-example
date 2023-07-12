@@ -40,4 +40,4 @@ to the path of ANDROID_HOME on your system. This allows you to run EAS Build loc
 4. Run `eas build:configure`. Choose Android for building the APK.
 5. Run `eas build -p android --profile preview --local`
 
-For more details, head over to [Quickstart]([https://docs.candypay.fun](https://docs.candypay.fun/mobile-sdk/quickstart.html)https://docs.candypay.fun/mobile-sdk/quickstart.html)
+For more details, head over to [Quickstart](https://docs.candypay.fun/mobile-sdk/quickstart.html)
