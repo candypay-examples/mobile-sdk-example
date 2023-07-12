@@ -2,6 +2,11 @@
 
 An example Expo project that can be used as a quickstart reference to integrate our mobile payments SDK. We will use EAS Build for this application.
 
+## How it works:
+
+https://github.com/candypay-examples/mobile-sdk-example/assets/91828247/75837a44-0ab4-4ca8-9c08-f8bc17b389e2
+
+
 ## Steps to run the application:
 
 1. Clone this project.
