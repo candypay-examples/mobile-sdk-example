@@ -50,7 +50,6 @@ export default function App() {
         onError={(error) => {
           showToast(`Error: ${error as unknown as string}`);
         }}
-        connectedWallet="Ss7aGjpwHm3Gg4MVNdXrm5C4GXuMvryCZUayjhPkouc"
       />
     </View>
   );

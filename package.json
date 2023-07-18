@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@candypay/checkout-sdk": "^0.1.56",
-    "@candypay/elements-mobile-sdk": "^0.1.7",
+    "@candypay/elements-mobile-sdk": "^0.2.7",
     "@solana-mobile/mobile-wallet-adapter-protocol": "^2.0.0",
     "@solana/web3.js": "^1.77.2",
     "expo": "~48.0.15",
